@@ -4,7 +4,7 @@ export default {
   footer: (
     <footer>
       <small>
-        <time>{YEAR}</time> © Your Name.
+        <time>{YEAR}</time> &copy; Katon.dev.
         <a href="/feed.xml">RSS</a>
       </small>
       <style jsx>{`
